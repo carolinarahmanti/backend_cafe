@@ -1,0 +1,27 @@
+{
+  "name": "cafe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "cryptr": "^6.2.0",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^9.0.0",
+    "md5": "^2.3.0",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0",
+    "sequelize": "^6.30.0"
+  },
+  "keywords": [],
+  "description": ""
+}
